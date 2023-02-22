@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1f55822-182b-4323-a697-e642be42e88c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Gherkin feature file" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="68c180cd-d10a-445c-b25f-6fb6546b69be" />
+  <component name="ProjectId" id="1p01AwTf47jkoJmhVTb518HHlko" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/爬虫课堂/课堂内容/验证码图" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PYTHON\爬虫\pylab图" />
+      <recent name="D:\PYTHON\爬虫" />
+      <recent name="D:\PYTHON\爬虫\爬虫课堂\selenium自动化\project1" />
+      <recent name="D:\PYTHON\爬虫\爬虫课堂\selenium自动化" />
+      <recent name="D:\PYTHON\爬虫\爬虫课堂\拓展" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PYTHON\爬虫\爬虫课堂\课堂内容\验证码图" />
+      <recent name="D:\PYTHON\爬虫\js逆向" />
+      <recent name="D:\PYTHON\爬虫\图像识别tool" />
+      <recent name="D:\PYTHON\爬虫\爬虫课堂\工具" />
+      <recent name="D:\PYTHON\爬虫\爬虫课堂\爬虫案例" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.百度翻译">
+    <configuration name="百度翻译" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/js逆向" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/js逆向/百度翻译.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多进程、" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫课堂/课堂内容/多进程、.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="截取验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫课堂/selenium自动化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫课堂/selenium自动化/截取验证码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="面试题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网格图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylab图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylab图/网格图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="绘制折线图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylab图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylab图/绘制折线图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="极轴图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylab图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylab图/极轴图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网易云获取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫课堂/selenium自动化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫课堂/selenium自动化/网易云获取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="绘制折线图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫课堂/工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫课堂/工具/绘制折线图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多进程、" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫课堂/课堂内容/多进程、.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="滑块验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫课堂/工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫课堂/工具/滑块验证码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="面试题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="绘制折线图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫课堂/工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫课堂/工具/绘制折线图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="王者荣耀英雄皮肤" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/WeChat Files/WeChat Files/wxid_fb32i8indg5n21/FileStorage/File/2021-03" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/WeChat Files/WeChat Files/wxid_fb32i8indg5n21/FileStorage/File/2021-03/王者荣耀英雄皮肤.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="面试题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="面试题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="面试题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="js_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫课堂/课堂内容/验证码图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫课堂/课堂内容/验证码图/js_read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="taobao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_0226" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_0226/taobao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="taobao_scrapy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_0226" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_0226/taobao_scrapy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tmao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_0226" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_0226/tmao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.taobao" />
+      <item itemvalue="Python.taobao_scrapy" />
+      <item itemvalue="Python.tmao" />
+      <item itemvalue="Python.百度翻译" />
+      <item itemvalue="Python.js_read" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.百度翻译" />
+        <item itemvalue="Python.js_read" />
+        <item itemvalue="Python.taobao_scrapy" />
+        <item itemvalue="Python.tmao" />
+        <item itemvalue="Python.taobao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f55822-182b-4323-a697-e642be42e88c" name="Default Changelist" comment="" />
+      <created>1614305053727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614305053727</updated>
+      <workItem from="1614305054892" duration="6124000" />
+      <workItem from="1614322860055" duration="3115000" />
+      <workItem from="1614430943561" duration="2158000" />
+      <workItem from="1614479125606" duration="5483000" />
+      <workItem from="1614675114952" duration="2937000" />
+      <workItem from="1614740854882" duration="4744000" />
+      <workItem from="1614952869539" duration="1774000" />
+      <workItem from="1614993611039" duration="20967000" />
+      <workItem from="1615078095755" duration="18359000" />
+      <workItem from="1615193169086" duration="3249000" />
+      <workItem from="1615338774080" duration="17008000" />
+      <workItem from="1615426920501" duration="10205000" />
+      <workItem from="1615444371495" duration="417000" />
+      <workItem from="1615445190673" duration="9693000" />
+      <workItem from="1615532274939" duration="7208000" />
+      <workItem from="1615600938181" duration="21191000" />
+      <workItem from="1615686118130" duration="28127000" />
+      <workItem from="1615729768828" duration="742000" />
+      <workItem from="1615769140219" duration="4899000" />
+      <workItem from="1615785937952" duration="2270000" />
+      <workItem from="1615799549965" duration="3285000" />
+      <workItem from="1615810993797" duration="280000" />
+      <workItem from="1615811287811" duration="2873000" />
+      <workItem from="1615895825094" duration="1394000" />
+      <workItem from="1615944380172" duration="4032000" />
+      <workItem from="1615958815931" duration="21000" />
+      <workItem from="1616326269789" duration="9669000" />
+      <workItem from="1616417023068" duration="6734000" />
+      <workItem from="1616461966227" duration="25540000" />
+      <workItem from="1616546692714" duration="9556000" />
+      <workItem from="1616560056513" duration="272000" />
+      <workItem from="1616564702072" duration="16000" />
+      <workItem from="1616567647956" duration="1356000" />
+      <workItem from="1616634792629" duration="2714000" />
+      <workItem from="1616638326498" duration="74000" />
+      <workItem from="1616680849967" duration="540000" />
+      <workItem from="1616722866175" duration="11235000" />
+      <workItem from="1616765012754" duration="4134000" />
+      <workItem from="1616769342844" duration="99000" />
+      <workItem from="1616807397948" duration="17109000" />
+      <workItem from="1616847508878" duration="1247000" />
+      <workItem from="1616858079486" duration="289000" />
+      <workItem from="1616895067671" duration="1397000" />
+      <workItem from="1616897089509" duration="120000" />
+      <workItem from="1616897220080" duration="1584000" />
+      <workItem from="1616898827696" duration="18440000" />
+      <workItem from="1616928974489" duration="1564000" />
+      <workItem from="1616930726532" duration="7128000" />
+      <workItem from="1616992696025" duration="2707000" />
+      <workItem from="1617066923387" duration="648000" />
+      <workItem from="1617067587372" duration="15147000" />
+      <workItem from="1617099733068" duration="1350000" />
+      <workItem from="1617101171241" duration="445000" />
+      <workItem from="1617101635735" duration="2993000" />
+      <workItem from="1617113460016" duration="3280000" />
+      <workItem from="1617156184374" duration="5267000" />
+      <workItem from="1617165229715" duration="4358000" />
+      <workItem from="1617177239019" duration="18270000" />
+      <workItem from="1617269279498" duration="5821000" />
+      <workItem from="1617356000088" duration="8608000" />
+      <workItem from="1617425328725" duration="2385000" />
+      <workItem from="1617428404601" duration="11675000" />
+      <workItem from="1617517936163" duration="888000" />
+      <workItem from="1617603258556" duration="8323000" />
+      <workItem from="1617695541341" duration="6000" />
+      <workItem from="1617710876882" duration="696000" />
+      <workItem from="1617777023421" duration="5397000" />
+      <workItem from="1617786557659" duration="5130000" />
+      <workItem from="1617795979721" duration="159000" />
+      <workItem from="1617797866134" duration="204000" />
+      <workItem from="1617798174097" duration="1397000" />
+      <workItem from="1617843527368" duration="2307000" />
+      <workItem from="1617930727256" duration="18722000" />
+      <workItem from="1617951358668" duration="4317000" />
+      <workItem from="1618029148303" duration="2332000" />
+      <workItem from="1618055562476" duration="1757000" />
+      <workItem from="1618105399109" duration="8260000" />
+      <workItem from="1618121921935" duration="602000" />
+      <workItem from="1618140210060" duration="107000" />
+      <workItem from="1618140998224" duration="4230000" />
+      <workItem from="1618194647718" duration="3030000" />
+      <workItem from="1618208104282" duration="2997000" />
+      <workItem from="1618225888364" duration="4231000" />
+      <workItem from="1618304389326" duration="1729000" />
+      <workItem from="1618321626725" duration="2641000" />
+      <workItem from="1618365164225" duration="6321000" />
+      <workItem from="1618375742183" duration="8010000" />
+      <workItem from="1618395642968" duration="1854000" />
+      <workItem from="1618451711248" duration="1471000" />
+      <workItem from="1618479307528" duration="2274000" />
+      <workItem from="1618711265711" duration="23771000" />
+      <workItem from="1619067068343" duration="611000" />
+      <workItem from="1619265440894" duration="1323000" />
+      <workItem from="1619266783929" duration="2581000" />
+      <workItem from="1619269393877" duration="77000" />
+      <workItem from="1619269567420" duration="299000" />
+      <workItem from="1619315619108" duration="2060000" />
+      <workItem from="1619350760921" duration="2447000" />
+      <workItem from="1619353328257" duration="1628000" />
+      <workItem from="1619404645598" duration="5357000" />
+      <workItem from="1619437458212" duration="2671000" />
+      <workItem from="1619513654366" duration="494000" />
+      <workItem from="1619514236461" duration="1413000" />
+      <workItem from="1620222895025" duration="1030000" />
+      <workItem from="1620227923641" duration="88000" />
+      <workItem from="1620261132091" duration="6000" />
+      <workItem from="1620262048752" duration="9000" />
+      <workItem from="1620262540633" duration="3094000" />
+      <workItem from="1620282959979" duration="695000" />
+      <workItem from="1620380714276" duration="1450000" />
+      <workItem from="1620459043973" duration="633000" />
+      <workItem from="1621167238076" duration="3057000" />
+      <workItem from="1621263938873" duration="617000" />
+      <workItem from="1621307986650" duration="662000" />
+      <workItem from="1621564408185" duration="727000" />
+      <workItem from="1622171078868" duration="9392000" />
+      <workItem from="1622349991656" duration="3171000" />
+      <workItem from="1622359192671" duration="1123000" />
+      <workItem from="1622706163150" duration="493000" />
+      <workItem from="1625993284870" duration="525000" />
+      <workItem from="1625995410651" duration="309000" />
+      <workItem from="1626011487671" duration="1491000" />
+      <workItem from="1626014788772" duration="1284000" />
+      <workItem from="1626098929163" duration="1581000" />
+      <workItem from="1626184444783" duration="2914000" />
+      <workItem from="1626265327940" duration="6867000" />
+      <workItem from="1626348320195" duration="1057000" />
+      <workItem from="1626574063606" duration="26000" />
+      <workItem from="1636886412775" duration="511000" />
+      <workItem from="1637493064337" duration="164000" />
+      <workItem from="1637493244120" duration="96000" />
+      <workItem from="1637493424563" duration="11000" />
+      <workItem from="1637493448141" duration="579000" />
+      <workItem from="1637494329604" duration="48000" />
+      <workItem from="1637494395847" duration="33000" />
+      <workItem from="1639907076985" duration="1059000" />
+      <workItem from="1640323006999" duration="195000" />
+      <workItem from="1640326645004" duration="425000" />
+      <workItem from="1640604404538" duration="587000" />
+      <workItem from="1640606138222" duration="20000" />
+      <workItem from="1640659411354" duration="1256000" />
+      <workItem from="1643345359414" duration="8104000" />
+      <workItem from="1644804451130" duration="19000" />
+      <workItem from="1645845371127" duration="2213000" />
+      <workItem from="1645853000505" duration="9346000" />
+      <workItem from="1645879506110" duration="6998000" />
+      <workItem from="1645931426921" duration="12339000" />
+      <workItem from="1646053353102" duration="3329000" />
+      <workItem from="1646226599476" duration="1127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Plugins" timestamp="1639907295496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1639907295496" />
+    <state x="410" y="179" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1645953398230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="179" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1645953398230" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1640326735322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1640326735322" />
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1645968172497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645968172497" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1645968172497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645968172497" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1645968172497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645968172497" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1645968172497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645968172497" />
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom" timestamp="1645857655800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645857655800" />
+    <state width="1493" height="256" key="GridCell.Tab.1.center" timestamp="1645857655800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1645857655800" />
+    <state width="1493" height="256" key="GridCell.Tab.1.left" timestamp="1645857655800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1645857655800" />
+    <state width="1493" height="256" key="GridCell.Tab.1.right" timestamp="1645857655800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1645857655800" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1640323084227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640323084227" />
+    <state x="647" y="141" width="314" height="539" key="ftp.server.browser" timestamp="1640326932875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="141" width="314" height="539" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1640326932875" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1640604780853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1640604780853" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$setup.coverage" NAME="setup Coverage Results" MODIFIED="1617968735566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/selenium自动化/project1" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="百度翻译 Coverage Results" MODIFIED="1645968154273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/js逆向" />
+    <SUITE FILE_PATH="coverage/$converses.coverage" NAME="converses Coverage Results" MODIFIED="1616930527267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python3.7/Lib/site-packages/aiowebsocket" />
+    <SUITE FILE_PATH="coverage/$scrapyd_deploy.coverage" NAME="scrapyd-deploy Coverage Results" MODIFIED="1619269793345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python3.7/Scripts" />
+    <SUITE FILE_PATH="coverage/$__js__spider.coverage" NAME="阿里妈妈--js--spider Coverage Results" MODIFIED="1616917654884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1616482402138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$dj_spider.coverage" NAME="dj_spider Coverage Results" MODIFIED="1617518069160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/爬虫案例" />
+    <SUITE FILE_PATH="coverage/$ddtest.coverage" NAME="ddtest Coverage Results" MODIFIED="1637494412757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../小玩意/python钢琴" />
+    <SUITE FILE_PATH="coverage/$day10___spider.coverage" NAME="day10---spider Coverage Results" MODIFIED="1616498896333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$xiecheng.coverage" NAME="xiecheng Coverage Results" MODIFIED="1617427712912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/拓展" />
+    <SUITE FILE_PATH="coverage/$aiowebsocket.coverage" NAME="aiowebsocket Coverage Results" MODIFIED="1616930544514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$rtewst.coverage" NAME="rtewst Coverage Results" MODIFIED="1615444715997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$___B_PP.coverage" NAME="抖音-火山-快手-B站-PP虾 Coverage Results" MODIFIED="1615699658792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/爬虫案例" />
+    <SUITE FILE_PATH="coverage/$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1619350881380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_a/py_a/spiders" />
+    <SUITE FILE_PATH="coverage/$day3__spider.coverage" NAME="day3--spider Coverage Results" MODIFIED="1614753609752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1618382760047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_info/job_info" />
+    <SUITE FILE_PATH="coverage/$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1626268851020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdbookspider/jdbookspider/spiders" />
+    <SUITE FILE_PATH="coverage/$js_BDFY_spider.coverage" NAME="js-BDFY-spider Coverage Results" MODIFIED="1616906625362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$img_jc.coverage" NAME="img_jc Coverage Results" MODIFIED="1617168884341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/拓展" />
+    <SUITE FILE_PATH="coverage/$taobao.coverage" NAME="taobao Coverage Results" MODIFIED="1645883014948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_0226" />
+    <SUITE FILE_PATH="coverage/$baotu.coverage" NAME="baotu Coverage Results" MODIFIED="1617087363470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$canny.coverage" NAME="canny Coverage Results" MODIFIED="1617171988359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/QQ 数据/python/Learning_OpenCV_3_Computer_Vision_with_Python_Second_Edition_Code/Chapter 3_Code" />
+    <SUITE FILE_PATH="coverage/$anli2.coverage" NAME="anli2 Coverage Results" MODIFIED="1615353571885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$anli.coverage" NAME="anli Coverage Results" MODIFIED="1615351998930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$py_mongo__1_.coverage" NAME="py_mongo (1) Coverage Results" MODIFIED="1617105969583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$selenium_3.coverage" NAME="selenium_3 Coverage Results" MODIFIED="1643347367418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/selenium自动化" />
+    <SUITE FILE_PATH="coverage/$day5___spider__1_.coverage" NAME="day5---spider (1) Coverage Results" MODIFIED="1615193878666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$User_login.coverage" NAME="User_login Coverage Results" MODIFIED="1617933529437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/selenium自动化" />
+    <SUITE FILE_PATH="coverage/$day09.coverage" NAME="day09 Coverage Results" MODIFIED="1616739424250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$excel.coverage" NAME="读取excel Coverage Results" MODIFIED="1617435087863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/工具" />
+    <SUITE FILE_PATH="coverage/$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1614482116478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testF" />
+    <SUITE FILE_PATH="coverage/$pyQt.coverage" NAME="pyQt Coverage Results" MODIFIED="1614676854778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/$tmao.coverage" NAME="tmao Coverage Results" MODIFIED="1645888141767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_0226" />
+    <SUITE FILE_PATH="coverage/$zh.coverage" NAME="高频词汇zh Coverage Results" MODIFIED="1617437778792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/工具" />
+    <SUITE FILE_PATH="coverage/$selenium_2.coverage" NAME="selenium_2 Coverage Results" MODIFIED="1617363996340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/selenium自动化" />
+    <SUITE FILE_PATH="coverage/$qidian___spiser.coverage" NAME="qidian---spiser Coverage Results" MODIFIED="1615619076415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$js_read.coverage" NAME="js_read Coverage Results" MODIFIED="1645965955047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容/验证码图" />
+    <SUITE FILE_PATH="coverage/$day10__spider.coverage" NAME="day10--spider Coverage Results" MODIFIED="1616421953340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$Day06_Spider_Re.coverage" NAME="Day06_Spider_Re Coverage Results" MODIFIED="1615440972280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/WeChat Files/WeChat Files/wxid_fb32i8indg5n21/FileStorage/File/2021-03" />
+    <SUITE FILE_PATH="coverage/$day11____spider.coverage" NAME="day11--协程--spider Coverage Results" MODIFIED="1645846366761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$excel___1_.coverage" NAME="读取excel_建柱状图 (1) Coverage Results" MODIFIED="1617438197265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/工具" />
+    <SUITE FILE_PATH="coverage/$day6___spider.coverage" NAME="day6---spider Coverage Results" MODIFIED="1615712646658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$login.coverage" NAME="login Coverage Results" MODIFIED="1617187584854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/拓展" />
+    <SUITE FILE_PATH="coverage/$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1618740596004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdbookspider/jdbookspider/spiders" />
+    <SUITE FILE_PATH="coverage/$B_.coverage" NAME="B站_过期 Coverage Results" MODIFIED="1636886446292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/爬虫案例" />
+    <SUITE FILE_PATH="coverage/$AWS111__1_.coverage" NAME="AWS111 (1) Coverage Results" MODIFIED="1616932279750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$ocr___spider.coverage" NAME="ocr---spider Coverage Results" MODIFIED="1617792745839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$modeil.coverage" NAME="modeil Coverage Results" MODIFIED="1616995379252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$3D.coverage" NAME="3D图 Coverage Results" MODIFIED="1622178180060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylab图" />
+    <SUITE FILE_PATH="coverage/$spider__1.coverage" NAME="spider--1 Coverage Results" MODIFIED="1643347063168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/selenium自动化" />
+    <SUITE FILE_PATH="coverage/$day4__wangyiyun.coverage" NAME="day4--wangyiyun Coverage Results" MODIFIED="1615009534938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1615730148835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$Day08_Spider_Css.coverage" NAME="Day08_Spider_Css Coverage Results" MODIFIED="1615770468007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/WeChat Files/WeChat Files/wxid_fb32i8indg5n21/FileStorage/File/2021-03" />
+    <SUITE FILE_PATH="coverage/$spider.coverage" NAME="spider Coverage Results" MODIFIED="1616331140626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/WeChat Files/WeChat Files/wxid_fb32i8indg5n21/FileStorage/File/2021-03" />
+    <SUITE FILE_PATH="coverage/$Day01_Spider_MongoDb__.coverage" NAME="Day01_Spider_MongoDb(一) Coverage Results" MODIFIED="1617158816386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/WeChat Files/WeChat Files/wxid_fb32i8indg5n21/FileStorage/File/2021-03" />
+    <SUITE FILE_PATH="coverage/$bb.coverage" NAME="bb Coverage Results" MODIFIED="1618366737385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu/baidu/spiders" />
+    <SUITE FILE_PATH="coverage/$x.coverage" NAME="抖音视频x Coverage Results" MODIFIED="1616724911006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/爬虫案例" />
+    <SUITE FILE_PATH="coverage/$__selenium.coverage" NAME="滑块验证--selenium Coverage Results" MODIFIED="1643350487669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/selenium自动化" />
+    <SUITE FILE_PATH="coverage/$hello.coverage" NAME="hello Coverage Results" MODIFIED="1617101786113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$testa.coverage" NAME="testa Coverage Results" MODIFIED="1617187594104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/拓展" />
+    <SUITE FILE_PATH="coverage/$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1619440352997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$css__spider.coverage" NAME="css--spider Coverage Results" MODIFIED="1615813228827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$utils.coverage" NAME="utils Coverage Results" MODIFIED="1615357242009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python3.7/Lib/site-packages/requests" />
+    <SUITE FILE_PATH="coverage/$taobao_scrapy.coverage" NAME="taobao_scrapy Coverage Results" MODIFIED="1645888297473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_0226" />
+    <SUITE FILE_PATH="coverage/$shijian.coverage" NAME="shijian Coverage Results" MODIFIED="1617115434716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/拓展" />
+    <SUITE FILE_PATH="coverage/$pic.coverage" NAME="英雄联盟pic Coverage Results" MODIFIED="1615697967645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$selenium_3__1_.coverage" NAME="selenium_3 (1) Coverage Results" MODIFIED="1617796037652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/selenium自动化" />
+    <SUITE FILE_PATH="coverage/$day5___spider.coverage" NAME="day5---spider Coverage Results" MODIFIED="1615698399993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$dy_wushuiyin.coverage" NAME="dy_wushuiyin Coverage Results" MODIFIED="1614325392634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/抖音无水印" />
+    <SUITE FILE_PATH="coverage/$B.coverage" NAME="B站 Coverage Results" MODIFIED="1615699474344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/爬虫案例" />
+    <SUITE FILE_PATH="coverage/$cv_two.coverage" NAME="cv_two Coverage Results" MODIFIED="1625993620806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$111__1_.coverage" NAME="111 (1) Coverage Results" MODIFIED="1616930912236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 Coverage Results" MODIFIED="1645861173015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$Day04_Spider_Selenium_2.coverage" NAME="Day04_Spider_Selenium_2 Coverage Results" MODIFIED="1617843938945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/WeChat Files/WeChat Files/wxid_fb32i8indg5n21/FileStorage/File/2021-04" />
+    <SUITE FILE_PATH="coverage/$DyAppPL.coverage" NAME="DyAppPL Coverage Results" MODIFIED="1616937451901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$po.coverage" NAME="po Coverage Results" MODIFIED="1622171278505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/工具" />
+    <SUITE FILE_PATH="coverage/$weibo_people.coverage" NAME="weibo_people Coverage Results" MODIFIED="1617181760546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/拓展" />
+    <SUITE FILE_PATH="coverage/$py_mongo.coverage" NAME="py_mongo Coverage Results" MODIFIED="1617356801673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$Day12_Spider.coverage" NAME="Day12_Spider Coverage Results" MODIFIED="1616508903870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/WeChat Files/WeChat Files/wxid_fb32i8indg5n21/FileStorage/File/2021-03" />
+    <SUITE FILE_PATH="coverage/$day4__sp__kuwoMUSIC__1_.coverage" NAME="day4--sp--kuwoMUSIC (1) Coverage Results" MODIFIED="1615017949528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$en.coverage" NAME="查高频词汇en Coverage Results" MODIFIED="1617437205705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/工具" />
+    <SUITE FILE_PATH="coverage/$bage.coverage" NAME="bage Coverage Results" MODIFIED="1617968731860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/selenium自动化" />
+    <SUITE FILE_PATH="coverage/$day4__sp.coverage" NAME="day4--sp Coverage Results" MODIFIED="1615007184061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课堂讲解" />
+    <SUITE FILE_PATH="coverage/$process1.coverage" NAME="process1 Coverage Results" MODIFIED="1626274425758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/线程与进程" />
+    <SUITE FILE_PATH="coverage/$code_encode.coverage" NAME="code_encode Coverage Results" MODIFIED="1615949885038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$zidong.coverage" NAME="zidong Coverage Results" MODIFIED="1617073344368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$retu.coverage" NAME="retu Coverage Results" MODIFIED="1622177057370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/工具" />
+    <SUITE FILE_PATH="coverage/$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1617196608115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$page1.coverage" NAME="page1 Coverage Results" MODIFIED="1618305526521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数分" />
+    <SUITE FILE_PATH="coverage/$js__spider.coverage" NAME="js逆向--spider Coverage Results" MODIFIED="1616907208047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫课堂/课堂内容" />
+    <SUITE FILE_PATH="coverage/$python.coverage" NAME="python重写 Coverage Results" MODIFIED="1617087659185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/WeChat Files/WeChat Files/wxid_fb32i8indg5n21/FileStorage/File/2021-03" />
+  </component>
+</project>
