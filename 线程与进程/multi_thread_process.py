@@ -2,10 +2,9 @@ import multiprocessing
 import time
 import threading
 
+# CPU密集计算demo
 def square_sum(n):
     return sum(i*i for i in range(1, n+1))
-
-
 
 def multi_thread_square_sum(n, num_threads):
     chunk_size = n // num_threads
